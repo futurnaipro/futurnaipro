@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Novutera 👋</h1>
+<h1 align="center">Hi, It's FuturnAI 👋</h1>
 <h3 align="center">Full-Stack Developer · AI Engineer</h3>
 
 <p align="center">
@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:novutera.pro@email.com"><img src="https://img.shields.io/badge/Email-novutera.pro%40email.com-3f8f7d?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:futurnai.pro@gmail.com"><img src="https://img.shields.io/badge/Email-futurnai.pro%40gmail.com-3f8f7d?style=flat-square&logo=gmail&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Location-Algeria-3f8f7d?style=flat-square&logo=googlemaps&logoColor=white"/>
   <img src="https://img.shields.io/badge/M.Sc-Data%20Science%20%26%20AI-3f8f7d?style=flat-square&logo=academia&logoColor=white"/>
 </p>
@@ -23,7 +23,7 @@
 
 ---
 
-### ⚙️ Skills & Technologies
+### Skills & Technologies
 
 **Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -66,40 +66,40 @@
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
-#### ☀️ [SolarAI](https://github.com/novuterapro/SolarAI-Backend) — Fault Detection & Diagnosis Platform
+#### ☀️ [SolarAI](https://github.com/futurnaipro/SolarAI-Backend) — Fault Detection & Diagnosis Platform
 *Master's Thesis · Featured*
 Real-time multi-agent AI system detecting and diagnosing faults in commercial solar PV installations — under 10 seconds from fault to alert, 98.7% classification accuracy, fully automated maintenance ticketing.
 `Python` `FastAPI` `React` `TensorFlow` `LangGraph` `PostgreSQL` `Gemini API`
 
-#### 📈 [SportsTrends](https://github.com/novuterapro/SportsTrends-Backend) — Arabic Sports Trends & Prediction Platform
+#### 📈 [SportsTrends](https://github.com/futurnaipro/SportsTrends-Backend) — Arabic Sports Trends & Prediction Platform
 Full-stack platform analyzing Arabic sports news and YouTube content through an end-to-end Arabic NLP pipeline, generating trend statistics and AI-driven event predictions.
 `FastAPI` `AraBERT` `CAMeL Tools` `React` `PyTorch` `Web Scraping` `Gemini API`
 
-#### 🛍️ [Herfty](https://github.com/novuterapro/Herfty-Backend) — E-Commerce Platform for Artisan Vendors
+#### 🛍️ [Herfty](https://github.com/futurnaipro/Herfty-Backend) — E-Commerce Platform for Artisan Vendors
 *Bachelor Final Year Project*
 E-commerce backend connecting Algerian artisan vendors with customers — secure JWT role-based auth, RESTful APIs, and an optimized catalogue/order schema.
 `Spring Boot` `MySQL` `Spring Security` `Java`
 
-#### 📚 [E-Learning Platform](https://github.com/novuterapro/Elearning-App) — Course Management System
+#### 📚 [E-Learning Platform](https://github.com/futurnaipro/Elearning-App) — Course Management System
 *Academic Project*
 Web-based e-learning system with full admin/instructor control, server-rendered with Thymeleaf and secured with Spring Security.
 `Spring Boot` `Thymeleaf` `MySQL` `Java`
 
-#### 🏫 منصة دروس (Dourouss) — School Management & E-Learning Platform
+### 🏫 School Management & E-Learning Platform
 *Professional · Proprietary*
 Complete school management platform with student, teacher, and admin portals — grades, bulletins, quizzes, homework, attendance, and auto-calculated reports.
 `Next.js` `Flask` `PostgreSQL` `Python`
 
-> 🔗 More projects and live screenshots on my [portfolio site](https://novuterapro.github.io/portfolio/).
+> 🔗 More projects and live screenshots on my [portfolio site](https://futurnaipro.github.io/portfolio/).
 
 ---
 
 ### Get in touch
 
 <p align="left">
-  <a href="mailto:novutera.pro@email.com"><img src="https://img.shields.io/badge/Email-novutera.pro%40email.com-eef6f3?style=for-the-badge&logo=gmail&logoColor=3f8f7d"/></a>
+  <a href="mailto:futurnai.pro@gmail.com"><img src="https://img.shields.io/badge/Email-futurnai.pro%40gmail.com-eef6f3?style=for-the-badge&logo=gmail&logoColor=3f8f7d"/></a>
 </p>
 
 Open to full-time positions, freelance projects, and collaborations — drop me a message!
